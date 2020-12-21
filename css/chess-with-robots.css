@@ -7,6 +7,21 @@ body {
   color: #5a5a5a;
 }
 
+.btn-outline-success {
+  color: #62C9BC;
+  border-color: #62C9BC;
+}
+
+.btn-outline-success:hover {
+  color: #ffffff;
+  border-color: #62C9BC;
+  background-color: #62C9BC;
+}
+
+a {
+  color: #62C9BC;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
