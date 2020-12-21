@@ -1,6 +1,6 @@
 # chess-with-robots-website
 
-Static site for [Chess with Robots](https://www.chesswithrobots.com)
+Static site for [Chess with Robots](https://chesswithrobots.com)
 
 Available on the appstore [here](https://apps.apple.com/us/app/chess-with-robots/id1543684589)
 
